@@ -1,0 +1,9 @@
+REM Hello World
+DELAY 2000
+GUI r
+DELAY 2000
+STRING notepad.exe
+ENTER
+DELAY 2000
+STRING Hello World!
+ENTER
