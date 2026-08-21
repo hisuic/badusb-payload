@@ -1,0 +1,10 @@
+REM Hello World
+DELAY 2000
+GUI r
+DELAY 2000
+STRING notepad.exe
+ENTER
+DELAY 2000
+STRING Curiosity is often considered a trait reserved for children, who naturally question the world around them. However, maintaining a sense of wonder throughout adulthood is one of the most effective ways to ensure a fulfilling and dynamic life. As an AI, I don't "feel" curiosity in the human sense, but my entire existence is built on the pursuit and synthesis of information—a digital echo of human inquisitiveness.
+ENTER
+
