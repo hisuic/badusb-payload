@@ -25,7 +25,10 @@ This repository contains various BadUSB (USB Rubber Ducky / HID attack) payload 
 
 | Directory | Description |
 |-----------|-------------|
-| [`helloworld/`](./helloworld/) | Opens Notepad and types "Hello World!" — a basic proof-of-concept payload. |
+| [`helloworld/`](./helloworld/) | Hello world出力するだけ |
+| [`sentence/`](./sentence/) | 長い文章を出力 |
+| [`sentence_delayed/`](./sentence_delayed/) | 各文字間に遅延を挟み長い文章を出力 |
+| [`sentence_delayed_JIS/`](./sentence_delayed_JIS/) | 対象環境がJIS配列である想定で各文字間に遅延を挟み長い文章を出力 |
 
 ---
 
